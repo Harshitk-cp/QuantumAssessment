@@ -10,4 +10,5 @@
     <color name="text">#C4DFEF</color>
     <color name="red">#FF0000</color>
     <color name="blue">#339DE3</color>
+    <color name="dark_blue">#2277AF</color>
 </resources>

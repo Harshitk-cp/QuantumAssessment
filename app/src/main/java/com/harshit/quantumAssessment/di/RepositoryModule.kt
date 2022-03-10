@@ -27,7 +27,6 @@ class RepositoryModule {
         return FirebaseSource()
     }
 
-
     @Singleton
     @Provides
     fun provideHomeRepository(webServices: Services, constants: Constants, firebaseSource: FirebaseSource): HomeRepository {

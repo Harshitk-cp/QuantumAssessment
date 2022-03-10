@@ -1,8 +1,10 @@
 package com.harshit.quantumAssessment.ui.home
 
+import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.view.WindowManager
 import android.view.animation.AnimationUtils
 import android.webkit.WebView
 import androidx.activity.viewModels
@@ -25,9 +27,12 @@ class NewsActivity : AppCompatActivity() {
             lifecycleOwner = this@NewsActivity
         }
         webView = binding.webView
+
+        if (Build.VERSION.SDK_INT >= 21) {
+            val window = this.window
+            window.statusBarColor = this.resources.getColor(R.color.dark_blue)
+        }
     }
-
-
 
     override fun onBackPressed() {
         if (webView.visibility == View.VISIBLE) {
