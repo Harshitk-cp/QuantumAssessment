@@ -9,3 +9,5 @@ Here are few of the major library and functionality that i've used
 -> Bindable Adapter for recycler view 
 -> Nested Recycler view for showing all sort of news at once
 -> Data Binding for clean code
+
+(couldn't implement some funcitonality such as google sign in and search in feed due to offline classes and exams next week).
