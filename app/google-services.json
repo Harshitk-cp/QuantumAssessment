@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785335516900",
+    "project_id": "quantumassessment-c1ce3",
+    "storage_bucket": "quantumassessment-c1ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785335516900:android:cb361feb5033f440c0f6f1",
+        "android_client_info": {
+          "package_name": "com.harshit.quantumAssessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785335516900-lm56q3mkek806kdm6usnas7go1s20r7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qEVV9C1BFseTUXInf6QXuO1YeFOStrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785335516900-lm56q3mkek806kdm6usnas7go1s20r7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

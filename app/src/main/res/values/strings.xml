@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuantumAssessment</string>
+    <string name="Register_Now">Dont have an account? <font color='red'>Register Now</font></string>
+    <string name="terms_condition">I agree with <font color='red'>terms and condition</font></string>
+    <string name="Login_now">Already have an account?  <font color='red'>Sign in!</font></string>
+</resources>
